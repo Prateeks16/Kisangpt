@@ -1,0 +1,52 @@
+Fertilizer Name,N%,P%,K%,Type,Source
+Urea,46,0,0,Nitrogenous,FCO / FAO
+Ammonium Sulphate,21,0,0,Nitrogenous,FCO / FAO
+Calcium Ammonium Nitrate (CAN),27,0,0,Nitrogenous,FCO / FAO
+Anhydrous Ammonia,82,0,0,Nitrogenous,FCO / FAO
+Ammonium Chloride,25,0,0,Nitrogenous,FCO / FAO
+DAP (Diammonium Phosphate),18,46,0,Phosphatic,FCO / FAO
+SSP (Single Super Phosphate),0,16,0,Phosphatic,FCO
+TSP (Triple Super Phosphate),0,46,0,Phosphatic,FAO / FCO (TSP grade)
+MOP (Muriate of Potash),0,0,60,Potassic,FCO / FAO
+SOP (Sulphate of Potash),0,0,50,Potassic,FAO
+10-26-26,10,26,26,Complex,Derived / Manufacturer
+12-32-16,12,32,16,Complex,Derived / Manufacturer
+14-35-14,14,35,14,Complex,Derived / Manufacturer
+15-15-15,15,15,15,Complex,Derived / Manufacturer
+17-17-17,17,17,17,Complex,Derived / Manufacturer
+19-19-19,19,19,19,Complex,Derived / Manufacturer
+20-20-0,20,20,0,Complex,Derived / Manufacturer
+20-20-20,20,20,20,Complex,Derived / Manufacturer
+28-28-0,28,28,0,Complex,Derived / Manufacturer
+30-30-0,30,30,0,Complex,Derived / Manufacturer
+16-20-0,16,20,0,Complex,Derived / Manufacturer
+16-16-16,16,16,16,Complex,Derived / Manufacturer
+24-24-0,24,24,0,Complex,Derived / Manufacturer
+27-27-0,27,27,0,Complex,Derived / Manufacturer
+32-32-0,32,32,0,Complex,Derived / Manufacturer
+Urea Ammonium Nitrate (UAN),32,0,0,Nitrogenous,Industry spec (typical)
+Ammonium Nitrate,34,0,0,Nitrogenous,FCO / Industry
+Nitrophosphate,20,20,0,Complex,Derived / Manufacturer
+Magnesium Ammonium Phosphate,6,20,0,Phosphatic,Unverified / literature
+Rock Phosphate,0,30,0,Phosphatic,Variable (rock phosphate grade)
+Gypsum,0,14,0,Phosphatic/soil amendment,Industry / agronomy guides
+Potassium Nitrate,13,0,44,Potassic,FAO / Industry
+Potassium Sulphate,0,0,50,Potassic,FAO
+Monoammonium Phosphate (MAP),11,52,0,Phosphatic,FAO / Industry
+Urea Phosphate,17,44,0,Phosphatic,Derived / Manufacturer
+Calcium Nitrate,15,0,0,Nitrogenous,Industry spec
+Ammonium Polyphosphate,10,34,0,Phosphatic,Industry spec
+Diammonium Phosphate Nitrate Mix,18,38,0,Complex,Derived / Manufacturer
+Vermicompost,2,1,1,Organic,Generic / agronomy
+Compost (Farmyard Manure),1,0.5,0.5,Organic,Generic / agronomy
+Bone Meal,3,15,0,Organic,Organic inputs literature
+Neem Cake,5,1,1,Organic,Organic inputs literature
+Fish Meal,6,3,2,Organic,Organic inputs literature
+Poultry Manure,3,2,1,Organic,Generic / agronomy
+Cow Dung Manure,1.5,1,0.5,Organic,Generic / agronomy
+Rhizobium Biofertilizer,0,0,0,Biofertilizer,FCO / Biofertilizer norms
+Azotobacter,0,0,0,Biofertilizer,FCO / Biofertilizer norms
+Azospirillum,0,0,0,Biofertilizer,FCO / Biofertilizer norms
+PSB (Phosphate Solubilizing Bacteria),0,0,0,Biofertilizer,FCO / Biofertilizer norms
+VAM (Vesicular Arbuscular Mycorrhiza),0,0,0,Biofertilizer,FCO / Biofertilizer norms
+Trichoderma,0,0,0,Biofertilizer,FCO / Biofertilizer norms
